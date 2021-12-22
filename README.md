@@ -93,7 +93,7 @@ BeautifulSoup，Scrapy 等。
 - Redhat: 世界上最流行的Linux 发行版本中的yum 包管理工具就是用python 开发的。
 
 除上面之外，还有搜狐、金山、腾讯、盛大、网易、百度、阿里、淘宝、土豆、新浪、果壳等公司都在使用Python
-完成各种各样的任务。更多案例请点[这里](https://www.python.org/about/success/)
+完成各种各样的任务。更多案例请点[这里](https://www.python.org/about/success/)。
 
 
 ### 下载安装
