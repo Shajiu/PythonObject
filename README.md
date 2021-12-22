@@ -57,27 +57,27 @@ Python 中的一切都是对象。面向对象编程（OOP）可以帮助您直�
 
 ### Python 语言的应用
 
-- Python 语言的应用领域
+#### Python 语言的应用领域
 
 Python 被广泛的应用于诸多领域，比如：
 
-**数据科学:**：数据科学涉及领域很广，涉及到当前火热的人工智能领域。Python 的数据科学包括数据分析、数据
+- **数据科学:**：数据科学涉及领域很广，涉及到当前火热的人工智能领域。Python 的数据科学包括数据分析、数据
 可视化、数据挖掘、自然语言处理、机器学习、深度学习等。典型的Python 库有：Numpy，Scipy，Pandas，
 Matplotlib，Seaborn，Scikit-learn，tensorflow 等。
 
-**云计算:**：典型应用—— Python 开发的OpenStack。
+- **云计算:**：典型应用—— Python 开发的OpenStack。
 
-**WEB开发:**：众多优秀的WEB 框架，比如：Django、flask、tornado
+- **WEB开发:**：众多优秀的WEB 框架，比如：Django、flask、tornado
 
 
-**网络爬虫:** 使用Python 可以便捷的编写网络爬虫，从网页上爬取相关信息，常用的Python 库包括：Requests，
+- **网络爬虫:** 使用Python 可以便捷的编写网络爬虫，从网页上爬取相关信息，常用的Python 库包括：Requests，
 BeautifulSoup，Scrapy 等。
 
-**系统运维:** 运维人员必备，slatstack（系统自动化配置和管理工具），Ansible（自动化运维工具）。
+- **系统运维:** 运维人员必备，slatstack（系统自动化配置和管理工具），Ansible（自动化运维工具）。
 
-**图形界面开发:** wxPython、PyQT、TKinter。
+- **图形界面开发:** wxPython、PyQT、TKinter。
 
-### 使用Python 的部分知名公司
+#### 使用Python 的部分知名公司
 越来越多的公司选在python 作为其主要开发语言，例如：
 - Google - Google Groups、Gmail、Google Maps、AlphaGo 等，Google App Engine 支持python 作为开发语言。
 - NASA - 美国宇航局，从1994 年起把python 作为主要开发语言。
