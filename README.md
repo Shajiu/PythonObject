@@ -54,6 +54,48 @@ Python 有非常强大的第三方库，基本上你想通过计算机实现任�
 - 面向对象
 
 Python 中的一切都是对象。面向对象编程（OOP）可以帮助您直观地解决复杂的问题。有了OOP，你可以通过创建对象把这些复杂的问题划分成更小的集合。
+
+### Python 语言的应用
+
+- Python 语言的应用领域
+
+Python 被广泛的应用于诸多领域，比如：
+
+**数据科学:**：数据科学涉及领域很广，涉及到当前火热的人工智能领域。Python 的数据科学包括数据分析、数据
+可视化、数据挖掘、自然语言处理、机器学习、深度学习等。典型的Python 库有：Numpy，Scipy，Pandas，
+Matplotlib，Seaborn，Scikit-learn，tensorflow 等。
+
+**云计算:**：典型应用—— Python 开发的OpenStack。
+
+**WEB开发:**：众多优秀的WEB 框架，比如：Django、flask、tornado
+
+
+**网络爬虫:** 使用Python 可以便捷的编写网络爬虫，从网页上爬取相关信息，常用的Python 库包括：Requests，
+BeautifulSoup，Scrapy 等。
+
+**系统运维:** 运维人员必备，slatstack（系统自动化配置和管理工具），Ansible（自动化运维工具）。
+
+**图形界面开发:** wxPython、PyQT、TKinter。
+
+### 使用Python 的部分知名公司
+越来越多的公司选在python 作为其主要开发语言，例如：
+- Google - Google Groups、Gmail、Google Maps、AlphaGo 等，Google App Engine 支持python 作为开发语言。
+- NASA - 美国宇航局，从1994 年起把python 作为主要开发语言。
+- Dropbox - 美国最大的在线云存储网站，全部用Python 实现，每天网站处理10 亿个文件的上传和下载。
+- 豆瓣网- 图书、唱片、电影等文化产品的资料数据库网站。
+- BitTorrent - bt 下载软件客户端。
+- gedit - Linux 平台的文本编辑器。
+- GIMP - Linux 平台的图像处理软件(Linux 下的PS)。
+- 知乎（国外的Quora）- 社交问答网站，国内最大的问答社区，通过Python 开发。
+- Autodesk Maya - 3D 建模软件，支持python 作为脚本语言。
+- YouTube: 世界上最大的视频网站YouTube 就是用Python 开发的。
+- Facebook: 大量的基础库均通过Python 实现的。
+- Redhat: 世界上最流行的Linux 发行版本中的yum 包管理工具就是用python 开发的。
+
+除上面之外，还有搜狐、金山、腾讯、盛大、网易、百度、阿里、淘宝、土豆、新浪、果壳等公司都在使用Python
+完成各种各样的任务。更多案例请点[这里](https://www.python.org/about/success/)
+
+
 ### 下载安装
 Gradle:
 ``` xml
