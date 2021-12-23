@@ -88,7 +88,7 @@ BeautifulSoup，Scrapy 等。
 
 ### 下载安装
 Python 是跨平台的编程语言，它可以运行在windows、Mac 和各种Linux/Unix 系统上。也就是说，假设在windows 系统下编写的Python 程序，在Mac 或Linux 系统下也是可以运行的。
-目前，Python 的版本主要分为两大类，即Python3.X 版和Python2.x 版，这两个版本是不兼容的。由于Python3.x 版本越来越普及，我们接下来的教程使用Python3.x 版（Python3.6 版或Python3.8 版及以上版本均可）。<font color=Blue>请关注且回复“Python安装包”关键字，便可获取不同版本的Python,Pycharm等相关工具</font> 。 
+目前，Python 的版本主要分为两大类，即Python3.X 版和Python2.x 版，这两个版本是不兼容的。由于Python3.x 版本越来越普及，我们接下来的教程使用Python3.x 版（Python3.6 版或Python3.8 版及以上版本均可）。<font color=Blue>请关注且回复“Python安装包”关键字，便可获取不同版本的Python,Pycharm等相关工具。</font>
 ![请关注且回复“Python安装包”关键字，便可获取不同版本的Python,Pycharm等相关工具](https://s3.bmp.ovh/imgs/2021/12/50a8b03afd031a40.png)
 Gradle:
 ``` xml
