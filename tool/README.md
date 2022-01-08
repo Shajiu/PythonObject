@@ -8,4 +8,4 @@
 |[txt_transform_voice.py](https://github.com/Shajiu/PythonObject/blob/main/tool/txt_transform_voice.py)|文本(PDF)转语音(MP3)|
 |[url_png.py](https://github.com/Shajiu/PythonObject/blob/main/tool/url_png.py)|定制化将链接转二维码|
 |[watermark.py](https://github.com/Shajiu/PythonObject/blob/main/tool/watermark.py)|给图片加水印|
-|[video_record.py](https://github.com/Shajiu/PythonObject/blob/main/tool/video_record.py)|[用Python制作一种轻量级的录频工具](https://shajiu.github.io/2022/01/08/yong-python-zhi-zuo-yi-chong-qing-liang-ji-de-lu-pin-gong-ju/)|
+|[video_record.py](https://github.com/Shajiu/PythonObject/blob/main/tool/video_record.py)|[用Python制作一种轻量级的录屏工具](https://shajiu.github.io/2022/01/08/yong-python-zhi-zuo-yi-chong-qing-liang-ji-de-lu-pin-gong-ju/)|
