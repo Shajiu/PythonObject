@@ -9,3 +9,4 @@
 |[url_png.py](https://github.com/Shajiu/PythonObject/blob/main/tool/url_png.py)|定制化将链接转二维码|
 |[watermark.py](https://github.com/Shajiu/PythonObject/blob/main/tool/watermark.py)|给图片加水印|
 |[video_record.py](https://github.com/Shajiu/PythonObject/blob/main/tool/video_record.py)|[用Python制作一种轻量级的录屏工具](https://shajiu.github.io/2022/01/08/yong-python-zhi-zuo-yi-chong-qing-liang-ji-de-lu-pin-gong-ju/)|
+|[word_cloud_bject](https://github.com/Shajiu/PythonObject/tree/main/tool/word_cloud_bject)|[如何AI制造程序猿与仙女舞蹈？](https://shajiu.github.io/2022/01/05/ru-he-ai-zhi-zao-cheng-xu-yuan-yu-xian-nu-wu-dao/)|
