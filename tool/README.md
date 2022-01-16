@@ -11,3 +11,4 @@
 |[video_record.py](https://github.com/Shajiu/PythonObject/blob/main/tool/video_record.py)|[用Python制作一种轻量级的录屏工具](https://shajiu.github.io/2022/01/08/yong-python-zhi-zuo-yi-chong-qing-liang-ji-de-lu-pin-gong-ju/)|
 |[word_cloud_bject](https://github.com/Shajiu/PythonObject/tree/main/tool/word_cloud_bject)|[如何AI制造程序猿与仙女舞蹈？](https://shajiu.github.io/2022/01/05/ru-he-ai-zhi-zao-cheng-xu-yuan-yu-xian-nu-wu-dao/)|
 |[logo.py](https://github.com/Shajiu/PythonObject/blob/main/tool/logo.py)|[Matplotlib绘制靓丽的LOGO](https://shajiu.github.io/2022/01/15/matplotlib-hui-zhi-jing-li-de-logo/)|
+|[tongji_university_java.py](https://github.com/Shajiu/PythonObject/blob/main/tool/tongji_university_java.py)|统计java代码行数|
